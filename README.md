@@ -1,6 +1,6 @@
 # prokvm
-easy cloud manage system ,proxmox cloud manager system
-Prokvm® 云服务器管理系统
+easy cloud manage system ,proxmox cloud manager system  Free
+Prokvm® 云服务器管理系统 免费的云服务器业务管理系统 Base on Proxmox  
 一、平台简介
 
 Prokvm是一款强大云管理系统，基于PHP研发的多租户云主机控制面板。 管理员/用户可以通过点击按钮即时创建主机,用户可以使用非常高级的基于Web的GUI来启动，停止，重新启动和管理他们的主机。 用户和管理员可以看到各种图表，以便更好地管理资源和监控信息。
